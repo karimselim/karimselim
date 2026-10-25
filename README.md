@@ -1,28 +1,71 @@
-<h1 align="center">Hi 👋, I'm Karim Selim</h1>
-<h3 align="center">A passionate frontend developer and three.js developer</h3>
+# Hey, I'm Karim Selim 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karimselim&label=Profile%20views&color=0e75b6&style=flat" alt="karimselim" /> </p>
+### SDET | QA Automation Engineer | Frontend Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimselim" alt="karimselim" /></a> </p>
+I'm a software engineer with a frontend development background, now focused on **Software Development Engineering in Test (SDET)**.
 
-- 🔭 I’m currently working on **Answer Nation**
+I enjoy understanding how applications work under the hood, finding edge cases, and building reliable automated tests that go beyond the happy path. My current focus is developing maintainable test automation with Playwright and TypeScript, strengthening my API testing skills, and learning how to design test frameworks that scale.
 
-- 🌱 I’m currently learning **React Three Fiber, Pixi.js, Blender**
-
-- 📫 How to reach me **kareemsleem7@gmail.com**
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem-sleem-367718220/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karimselim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karimselim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karimselim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 **Currently building:** A Playwright automation project for [Vendure](https://www.vendure.io/)
+- 🧪 **Test automation:** Playwright, TypeScript, test design, fixtures, and reusable test utilities
+- 🔌 **API testing:** REST APIs, GraphQL, and request/response validation
+- 🗄️ **Data & tooling:** SQL, Git, GitHub, and CI/CD fundamentals
+- 🌐 **Background:** React, Next.js, JavaScript, and frontend performance optimization
+- 🎯 **Goal:** Become a strong SDET who can design, build, and maintain reliable testing systems
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karimselim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧪 Featured Project
+
+### Vendure — E-commerce Test Automation
+
+Building an automation project around an e-commerce application to practice real-world QA engineering.
+
+The focus is on more than writing test scripts: I'm working on maintainable test architecture, reusable fixtures, authentication flows, assertions, and a structured approach to identifying UI and API test coverage.
+
+**Technologies:** Playwright · TypeScript · REST API Testing · GraphQL · SQL · Git
+
+> More than making tests pass, the goal is to build a framework that's reliable, readable, and maintainable.
+
+---
+
+## 🛠️ Tech Stack
+
+**Test Automation & QA**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Tools & Data**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimselim&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimselim&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing test automation, software quality, frontend engineering, and the engineering practices that make applications more reliable.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem-sleem-367718220/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemsleem7@gmail.com)
+
